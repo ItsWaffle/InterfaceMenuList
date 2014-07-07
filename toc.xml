@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Waffle" APIVersion="8" Name="VikingInterfaceMenu" Description="">
+    <Script Name="VikingInterfaceMenu.lua"/>
+    <Form Name="VikingInterfaceMenu.xml"/>
+    <ReplaceAddon Name="InterfaceMenuList"/>
+</Addon>
